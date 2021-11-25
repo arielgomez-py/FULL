@@ -4,8 +4,18 @@
     box-sizing: border-box;
 }
 
+html {
+    font-size: 62.5%;
+}
+.navbar {
+    background: none ;
+}
 .navbar-brand img {
     border: none;
-    width: 50%;
-    height: 50%;
+    width: 40%;
+    height: 40%;
+}
+.nav-link {
+    font-size: 2rem;
+    color: #b23050 !important;
 }
