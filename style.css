@@ -6,4 +6,6 @@
 
 .navbar-brand img {
     border: none;
+    width: 50%;
+    height: 50%;
 }
