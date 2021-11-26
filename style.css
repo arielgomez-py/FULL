@@ -10,6 +10,8 @@ html {
 .navbar {
     background: none;
 }
+.navbar-brand {
+}
 .navbar-brand img {
     border: none;
     width: 40%;
@@ -18,4 +20,10 @@ html {
 .nav-link {
     font-size: 2rem;
     color: #b23050 !important;
+}
+/*Button of navbar*/
+.navbar-toggler {
+    background: #b23050;
+    border-radius: 20%;
+    height: 35px;   
 }
