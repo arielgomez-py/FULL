@@ -11,6 +11,7 @@ html {
     background: none;
 }
 .navbar-brand {
+  width: 250px;
 }
 .navbar-brand img {
     border: none;
