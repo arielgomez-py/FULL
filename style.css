@@ -8,15 +8,19 @@ html {
     font-size: 62.5%;
 }
 .navbar {
+    
+}
+.navbar {
     background: none;
+    margin: 20px;
 }
 .navbar-brand {
-  width: 250px;
+  width: 40%;
+  margin:0;
+  padding: 0;
 }
 .navbar-brand img {
     border: none;
-    width: 40%;
-    height: 40%;
 }
 .nav-link {
     font-size: 2rem;
@@ -26,5 +30,5 @@ html {
 .navbar-toggler {
     background: #b23050;
     border-radius: 20%;
-    height: 35px;   
+    height: 35px;
 }
