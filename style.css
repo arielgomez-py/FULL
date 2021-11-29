@@ -9,9 +9,6 @@ html {
 }
 /*Header*/
 .navbar {
-    
-}
-.navbar {
     background: none;
     margin: 20px;
 }
@@ -33,14 +30,17 @@ html {
     border-radius: 20%;
     height: 35px;
 }
-
+.navbar-nav {
+   position: absolute;
+   background-color:violet;
+}
 /*Main*/
 #section-1 {
     width: 100%;
     height: 600px;
     background-image: url(./Assets/fondo\ imagen\ vista\ movil.png);
     background-size: cover;
-    background-repeat: no-repeat;
+    background-repeat: no-repeat; 
 }
 #section-1 h2 {
     color: white;
