@@ -21,9 +21,12 @@ html {
 .navbar-brand img {
     border: none;
 }
+/*Links of the navbar*/
 .nav-link {
-    font-size: 2rem;
+    font-size: 1.8rem;
     color: #b23050 !important;
+    margin-left: 15px;
+    margin-top: 5px;
 }
 /*Button of navbar*/
 .navbar-toggler {
@@ -31,9 +34,15 @@ html {
     border-radius: 20%;
     height: 35px;
 }
+/*List containing the navigation items*/
 .navbar-nav {
    position: absolute;
-   background-color:violet;
+   background-color:white;
+   border-radius: 15px;
+   width: 280px;
+   height: 300px;
+   margin-top: 20px;
+   margin-left: 15px;
 }
 /*Main*/
 #section-1 {
