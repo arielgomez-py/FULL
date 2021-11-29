@@ -7,6 +7,7 @@
 html {
     font-size: 62.5%;
 }
+
 /*Header*/
 .navbar {
     background: none;
@@ -41,31 +42,31 @@ html {
     background-image: url(./Assets/fondo\ imagen\ vista\ movil.png);
     background-size: cover;
     background-repeat: no-repeat; 
+    padding-top: 10px;
 }
 #section-1 h2 {
     color: white;
     width: 150px;
     height: 38px;
     font-size: 3rem;
-    position: relative;
-    top: 20px;  
-    left: 25px; 
+    margin: 20px;
+    width: bold;
 }
 #section-1 h1 {
     color: white;
     font-size: 4.5rem;
     width: 130px;
     height: 48px;
-    position: relative;
-    top: 25px;
-    left: 65px;
+    margin-left: 65px;
+    width: bold;
 }
 #section-1 p {
     width: 250px;
     height: 150px;
-    font-size: 1.2rem;
-    position: relative;
+    font-size: 1.6rem;
     top: 40px;
     left: 65px;
-    line-height: 1.8rem;
+    line-height: 2.5rem;
+    margin-left: 65px;
+    margin-top: 20px;
 }
