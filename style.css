@@ -33,6 +33,7 @@ html {
     border-radius: 20%;
     height: 35px;
 }
+
 /*Main*/
 #section-1 {
     width: 100%;
@@ -58,4 +59,13 @@ html {
     position: relative;
     top: 25px;
     left: 65px;
+}
+#section-1 p {
+    width: 250px;
+    height: 150px;
+    font-size: 1.2rem;
+    position: relative;
+    top: 40px;
+    left: 65px;
+    line-height: 1.8rem;
 }
