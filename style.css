@@ -91,3 +91,12 @@ html {
     top: 25px;
     left: 25px;
 }
+#section-2 p {
+    width: 75%;
+    height: 40%;
+    position: relative;
+    top: 45px;
+    left: 25px;
+    font-size: 1.4rem;
+    line-height: 2.5rem;
+}
