@@ -133,15 +133,24 @@ html {
     border: none;
     font-size: 1.8rem;
 }
+/*Footer*/
 footer {
     width: 100%;
     height: 250px;
     background-color: #e7c000;
+    display: flex;
 }
+/*Container contain identity of footer and link*/
 .id-link {
     width: 50%;
     height: 230px;
+    display: block;
 }
+.id-link img {
+    width: 50%;
+    height: 50%px;
+}
+/*Container contain links of social networks*/
 .social {
     width: 50%;
     height: 230px;
