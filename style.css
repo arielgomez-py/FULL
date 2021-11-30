@@ -143,17 +143,17 @@ footer {
 /*Container contain identity of footer and link*/
 .id-link {
     width: 50%;
-    height: 230px;
-    display: flex;
+    height: 230px; 
 }
 .id-link img {
     width: 80%;
     height: 20%;
+    margin: 20px;
 }
 .id-link a {
     font-size: 1.8rem;
     text-decoration: none;
-    height: 24px;
+    height: 24px; 
 }
 /*Container contain links of social networks*/
 .social {
