@@ -126,5 +126,10 @@ html {
 /*Download button*/
 .btn {
     position: relative;
-    left: 60%;    
+    left: 60%; 
+    background-color: #b23050;
+    width: 140px;  
+    border-radius: 10px; 
+    border: none;
+    font-size: 1.8rem;
 }
