@@ -144,11 +144,15 @@ footer {
 .id-link {
     width: 50%;
     height: 230px;
-    display: block;
+    display: flex;
 }
 .id-link img {
     width: 50%;
-    height: 50%px;
+    height: 50%;
+}
+.id-link a {
+    font-size: 1.8rem;
+    text-decoration: none;
 }
 /*Container contain links of social networks*/
 .social {
