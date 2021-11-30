@@ -143,12 +143,14 @@ footer {
 /*Container contain identity of footer and link*/
 .id-link {
     width: 60%;
-    height: 230px; 
+    height: 230px;
+    margin-top: 25px; 
 }
 .id-link img {
     width: 80%;
     height: 20%;
-    margin: 20px;
+    margin-left: 20px;
+    margin-bottom: 25px;
 }
 .id-link a {
     font-size: 1.8rem;
@@ -162,4 +164,5 @@ footer {
     width: 40%;
     height: 230px;
     display: block;
+    margin-top: 25px; 
 }
