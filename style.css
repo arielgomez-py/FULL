@@ -86,7 +86,7 @@ html {
 /*Section 2*/
 #section-2 {
     width: 100%;
-    height: 500px;
+    height: 350px;
     
 }
 /*Container contain the ub reader*/
@@ -126,7 +126,7 @@ html {
 /*Download button*/
 .btn {
     position: relative;
-    left: 60%; 
+    left: 50%; 
     background-color: #b23050;
     width: 140px;  
     border-radius: 10px; 
