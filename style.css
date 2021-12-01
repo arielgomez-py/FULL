@@ -141,23 +141,23 @@ footer {
     display: flex;
 }
 /*Container contain identity of footer and link*/
-.id-link {
+.container {
     width: 50%;
     height: 230px;
     margin-top: 25px; 
 }
-.id-link img {
+.container img {
     width: 50%;
     height: 10%;
-    margin-left: 20px;
-    margin-bottom: 25px;
 }
-.id-link a {
+.container a {
     font-size: 1.6rem;
     text-decoration: none;
-    margin-left: 50px;
-    color:#535353; 
-  
+    color:#535353;
+    position: relative;
+    top: 60px;
+    right: 80px;
+    
 }
 /*Container contain links of social networks*/
 .social {
