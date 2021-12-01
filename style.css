@@ -142,7 +142,7 @@ footer {
 }
 /*Container contain identity of footer and link*/
 .container {
-    width: 50%;
+    width: 40%;
     height: 230px;
     margin-top: 25px; 
 }
@@ -161,15 +161,16 @@ footer {
 }
 /*Container contain links of social networks*/
 .social {
-    width: 50%;
+    width: 60%;
     height: 230px;
     display: block;
     margin-top: 25px; 
 }
 .social a {
     font-size: 1.6rem;
-    margin: 20px;
-    margin-bottom: 100px;
     text-decoration: none;
     color:#535353; 
+}
+.links li {
+    list-style: none;
 }
