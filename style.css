@@ -145,32 +145,34 @@ footer {
     width: 40%;
     height: 230px;
     margin-top: 25px; 
+    margin-left: 10px;
 }
 .container img {
-    width: 50%;
-    height: 10%;
+    width: 95%;
+    height: 15%;
 }
 .container a {
     font-size: 1.6rem;
     text-decoration: none;
     color:#535353;
     position: relative;
-    top: 60px;
-    right: 80px;
-    
+    top: 60px;   
 }
 /*Container contain links of social networks*/
 .social {
     width: 60%;
-    height: 230px;
+    height: 200px;
     display: block;
     margin-top: 25px; 
+}
+.links li {
+    list-style: none;
+    width: 75%;
+    margin-bottom: 10px;
 }
 .social a {
     font-size: 1.6rem;
     text-decoration: none;
     color:#535353; 
 }
-.links li {
-    list-style: none;
-}
+
