@@ -86,7 +86,7 @@ html {
 /*Section 2*/
 #section-2 {
     width: 100%;
-    height: 350px;
+    height: 320px;
     
 }
 /*Container contain the ub reader*/
@@ -100,8 +100,7 @@ html {
     left: 20px;
 }
 .ub-reader img {
-    width: 45%;
-    height: 90%;
+    width: 30%;   
 }
 .ub-reader h2 {
     width: 60%;
@@ -148,8 +147,7 @@ footer {
     margin-left: 10px;
 }
 .container img {
-    width: 95%;
-    height: 15%;
+    width: 100%; 
 }
 .container a {
     font-size: 1.6rem;
