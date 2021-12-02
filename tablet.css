@@ -1,0 +1,8 @@
+/*Header*/
+
+/*List containing the navigation items*/
+.navbar-nav {
+    width: 280px;
+    height: 300px;
+    margin-left: 280px;
+ }
