@@ -1,5 +1,13 @@
 /*Header*/
 
+/*Button of navbar*/
+.navbar-toggler {
+    height: 45px;
+    width: 40px;
+}
+.navbar-toggler-icon {
+    font-size: 1.8rem;
+}
 /*List containing the navigation items*/
 .navbar-nav {
     left: 240px;
