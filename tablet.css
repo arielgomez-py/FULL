@@ -1,5 +1,13 @@
 /*Header*/
+
 /*List containing the navigation items*/
 .navbar-nav {
     left: 240px;
  }
+
+ /*Section 1*/
+#section-1 {
+    height: 600px;
+    background-image: url(./Assets/fondo\ imagen\ vista\ web.png);
+   
+}
