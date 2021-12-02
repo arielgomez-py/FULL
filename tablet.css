@@ -7,7 +7,17 @@
 
  /*Section 1*/
 #section-1 {
-    height: 600px;
+    height: 500px;
     background-image: url(./Assets/fondo\ imagen\ vista\ web.png);
-   
+}
+#section-1 h2 {
+    width: 200px;
+    height: 40px;
+    font-size: 4rem;
+    margin: 30px;  
+}
+#section-1 h1 {
+    color: white;
+    font-size: 6rem;
+    margin-left: 85px;
 }
