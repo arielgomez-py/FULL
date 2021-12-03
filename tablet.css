@@ -76,3 +76,25 @@
 .btn {
     left: 70%;  
 }
+
+/*Footer*/
+/*Container contain identity of footer and link*/
+.container {
+    margin-top: 35px; 
+    margin-left: 35px;
+}
+.container a {
+    font-size: 2rem;
+    top: 40px;   
+}
+.social {
+    display: block;
+    margin-top: 35px;
+}
+.social a {
+    font-size: 2rem;
+    color:#535353; 
+    margin-left: 30px;
+}
+
+
