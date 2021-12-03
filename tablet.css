@@ -41,7 +41,9 @@
     line-height: 3.2rem;
 }
 /*Section 2*/
-
+#section-2 {
+    height: 350px;   
+}
 /*Container contain the ub reader*/
 .ub-reader {
     width: 75%;
