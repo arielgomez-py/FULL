@@ -62,3 +62,11 @@
     margin-top: 25px;
     color: #89A321;
 }
+/*Container that contain the paragraph and download button*/
+.par-button {
+    width: 75%;
+    height: 80%;
+    position: relative;
+    top: 80px;
+    left: 35px;
+}
