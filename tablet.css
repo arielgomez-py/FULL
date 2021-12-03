@@ -53,5 +53,12 @@
 }
 .ub-reader picture {
     width: 150px;
-    height: 120px;
+    height: 100px;
+}
+.ub-reader h2 {
+    width: 60%;
+    height: 30%;
+    font-size: 4rem;
+    margin-top: 25px;
+    color: #89A321;
 }
