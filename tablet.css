@@ -30,7 +30,6 @@
     margin: 30px;  
 }
 #section-1 h1 {
-    color: white;
     font-size: 6rem;
     margin-left: 85px;
 }
@@ -60,13 +59,18 @@
     height: 30%;
     font-size: 4rem;
     margin-top: 25px;
-    color: #89A321;
 }
 /*Container that contain the paragraph and download button*/
 .par-button {
-    width: 75%;
-    height: 80%;
-    position: relative;
+    width: 85%;
     top: 80px;
     left: 35px;
+}
+.par-button p {
+    margin-top: 35px;
+    font-size: 1.6rem;
+}
+/*Download button*/
+.btn {
+    left: 70%;  
 }
