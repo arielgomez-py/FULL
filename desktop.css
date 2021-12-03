@@ -2,13 +2,22 @@
 /*Header*/
 
 .navbar-brand {
-  width: 25%;
- 
+  width: 10%;
 }
-.navbar-brand img {
-    border: none;
-}
+
 /*List containing the navigation items*/
 .navbar-nav {
     position: static;
  }
+
+  /*Items of the navbar*/
+ .nav-item {
+    
+ }
+ /*Links of the navbar*/
+.nav-link {
+    font-size: 1.8rem;
+    color: #b23050 !important;
+    margin-top: 5px;
+    font-weight: 600;
+}
