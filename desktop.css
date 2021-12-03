@@ -1,4 +1,13 @@
 /*Footer*/
+/*Header*/
+
+.navbar-brand {
+  width: 25%;
+ 
+}
+.navbar-brand img {
+    border: none;
+}
 /*List containing the navigation items*/
 .navbar-nav {
     position: static;
