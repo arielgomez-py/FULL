@@ -8,6 +8,7 @@
 /*List containing the navigation items*/
 .navbar-nav {
     position: static;
+    width: 90%;
  }
 
   /*Items of the navbar*/
