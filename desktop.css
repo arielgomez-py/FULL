@@ -16,10 +16,11 @@
  
  /*Links of the navbar*/
 .nav-link {
-    font-size: 1.4rem;
-   
-    
+    font-size: 1.4rem;   
 }
-.nav-item { 
 
+/*Main*/
+/*Section 1*/
+#section-1 {
+  height:680px;
 }
