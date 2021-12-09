@@ -51,3 +51,12 @@
   left: 500px;
   bottom: 180px;
 }
+/*Container containing the ub reader*/
+.ub-reader {
+  position: relative;
+  top: 100px;
+  left: 100px;
+  display: block;
+  width: 10%;
+  height: 10%;
+}
