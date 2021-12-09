@@ -67,3 +67,12 @@
   font-size: 3rem;
   margin-top: 10px;
 }
+
+/*Container that contain the paragraph and download button*/
+.par-button {
+  width: 65%;
+  height: 60%;
+  position: relative;
+  top: 30px;
+  left: 300px;
+}
