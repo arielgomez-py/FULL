@@ -76,3 +76,8 @@
   top: 30px;
   left: 300px;
 }
+/*Download button*/
+.btn {
+    position: relative;
+    left: 80%; 
+}
