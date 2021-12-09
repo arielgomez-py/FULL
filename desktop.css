@@ -60,3 +60,10 @@
   width: 10%;
   height: 10%;
 }
+
+.ub-reader h2 {
+  width: 60%;
+  height: 30%;
+  font-size: 3rem;
+  margin-top: 10px;
+}
