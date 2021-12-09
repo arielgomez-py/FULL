@@ -62,7 +62,7 @@ html {
     height: 38px;
     font-size: 3rem;
     margin: 20px;
-    width: bold;
+    font-weight: bold;
 }
 #section-1 h1 {
     color: white;
@@ -70,14 +70,12 @@ html {
     width: 130px;
     height: 48px;
     margin-left: 65px;
-    width: bold;
+    font-weight: bold;
 }
 #section-1 p {
     width: 250px;
     height: 150px;
     font-size: 1.6rem;
-    top: 40px;
-    left: 65px;
     line-height: 2.5rem;
     margin-left: 65px;
     margin-top: 20px;

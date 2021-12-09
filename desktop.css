@@ -20,7 +20,26 @@
 }
 
 /*Main*/
+
 /*Section 1*/
 #section-1 {
   height:680px;
+}
+
+#section-1 h2 {
+  width: 300px;
+  height: 60px;
+  font-size: 5rem;
+  position: relative;
+  left: 100px;
+  top: 40px;
+}
+
+#section-1 h1 {
+  font-size: 6.5rem;
+  width: 130px;
+  height: 48px;
+  position: relative;
+  left: 180px;
+  top: 20px;
 }
