@@ -95,3 +95,11 @@
   top: 35px;
   left: 50px;   
 }
+.links {
+  display: flex;
+  margin-top: 40px;
+  margin-left: 25px;
+}
+.links li {
+  width: 20%;
+}
