@@ -81,3 +81,17 @@
     position: relative;
     left: 80%; 
 }
+
+/*Footer*/
+/*Container containing identity of footer and link*/
+.container {
+  margin-top: 50px; 
+  margin-left: 70px;
+}
+.container img {
+  width: 50%; 
+}
+.container a {
+  top: 35px;
+  left: 50px;   
+}
